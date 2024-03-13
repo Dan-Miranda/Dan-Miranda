@@ -4,7 +4,7 @@
 
 ## Olá! Eu sou o Danillo miranda 👋
 
-Eu sou um cientista da computação formado pela UNESP (Rio Claro - SP) e atualmente trabalho como front-end utilizando ReactJS utilizando Typescript e frameworks como NextJS e bundlers como ViteJS.
+Eu sou um cientista da computação formado pela UNESP (Rio Claro - SP) e atualmente trabalho como front-end utilizando ReactJS com Typescript e frameworks como NextJS e bundlers como ViteJS.
 Estou no mercado de trabalho como desenvolvedor há 6 anos e ao longo da minha carreira tive vivência com as seguintes tecnologias:
 
 <div style="display: inline_block"><br>
