@@ -1,11 +1,11 @@
-- 🔭 Hoje trabalho como front-end na stack de ReactJS com Typescript
-- 🌱 Estou estudando sobre estruturas de bibliotecas, widgets e diferentes maneiras de realizar builds das aplicações
-- 😄 Pronomes: ele/dele
+- 🔭 I currently work as a front-end developer using ReactJS with Typescript
+- 🌱 I am studying library structures, widgets, and different ways to build applications
+- 😄 Pronouns: he/him
 
-## Olá! Eu sou o Danillo Miranda 👋
+## Hello! I'm Danillo Miranda 👋
 
-Eu sou um cientista da computação formado pela UNESP (Rio Claro - SP) e atualmente trabalho como front-end utilizando ReactJS com Typescript e frameworks como NextJS e bundlers como ViteJS.
-Estou no mercado de trabalho como desenvolvedor há 6 anos e ao longo da minha carreira tive vivência com as seguintes tecnologias:
+I am a computer scientist graduated from UNESP (Rio Claro - SP) and currently work as a front-end developer using ReactJS with Typescript and frameworks like NextJS, as well as bundlers like ViteJS.
+I have been working in the development field for 6 years, and throughout my career, I have gained experience with the following technologies:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
