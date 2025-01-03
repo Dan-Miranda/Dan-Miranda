@@ -10,7 +10,7 @@ Throughout my career, I have worked with a wide range of technologies, which has
 
 I am also experienced with a set of powerful tools that I frequently use to enhance the development of applications, including:
 
-- **Storybook** for documenting, building and testing UI components in isolation
+- **Storybook** for documenting, building, and testing UI components in isolation
 - **Jest** for unit testing and ensuring application reliability
 - **Zod** for schema validation and type-safe validation at runtime
 - **TailwindCSS** for utility-first CSS to rapidly build custom designs
